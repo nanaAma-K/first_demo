@@ -1,0 +1,24 @@
+form{
+
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    background-color: aquamarine;
+}
+
+input[type='text']{
+    width: 400px;
+    background-color: #c4c4c4;
+}
+
+button{
+    width: 400px;
+    color: white;
+    background-color: green;
+}
